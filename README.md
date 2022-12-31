@@ -1,6 +1,6 @@
 <div align="center">
 
-![]()
+![Logo do repositório](/../media/repo-logo.png)
 
 | Problema | Solução em `C` | Solução em `Java` |
 | :------: | :------: | :------: |
